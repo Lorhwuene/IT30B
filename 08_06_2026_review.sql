@@ -19,4 +19,6 @@ create table students(
     student_Id int not null,
     book_Id int not null,
 
+    
+
  );
